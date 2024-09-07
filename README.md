@@ -1,6 +1,6 @@
 - 👋 Hi, I’m G Madhu Sudan Reddy
 - 👀 I’m interested in New UI Trends and Tech advances
-- 🌱 I’m currently diving in Data Structures and Algorithms
+- 🌱 I’m currently diving into Data Structures and Algorithms
 # 💫 About Me:
 I am a Software Engineer working on Full Stack Development and  aimed at creating efficient softwares that are Easy to understand, Efficient to work on and Effective in the long run.
 

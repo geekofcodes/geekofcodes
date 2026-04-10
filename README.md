@@ -1,7 +1,7 @@
 <h1 align="center">G Madhu Sudan Reddy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;UI%2FUX+Enthusiast;Building+Scalable+Systems;Problem+Solver+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Building+Scalable+Systems;UI%2FUX+Focused+Developer;Problem+Solver+%7C+Tech+Explorer" />
 </p>
 
 <p align="center">
@@ -12,50 +12,30 @@
 
 ## 🧠 About Me
 
-* 💻 Full Stack Engineer focused on scalable & clean architecture
-* 🎯 Passionate about modern UI/UX & performance
-* 🧠 Currently mastering DSA, system design & backend optimization
+* 💻 Full Stack Engineer focused on **scalable & maintainable architectures**
+* 🎯 Strong interest in **modern UI/UX and product engineering**
+* 🧠 Currently mastering **DSA, system design & backend optimization**
 
-💡 *I build systems that are easy to understand, efficient to scale, and effective long-term.*
+💡 *I design and build systems that are simple to understand, efficient to scale, and reliable in production.*
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 AI Interview Chatbot
+## 🚗 IsleRide
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=AI+Interview+Chatbot+Preview" />
+  <img src="https://via.placeholder.com/800x400?text=IsleRide+Preview" />
 </p>
 
-**Tech:** MERN Stack + AI
+**A scalable ride & transport management platform designed for real-time operations**
 
-* Real-time AI-based interview simulation
-* Dynamic response generation
-* Clean UI for interactive experience
+**Tech:** Django + React + REST APIs
 
-<p align="center">
-  <a href="https://github.com/geekofcodes">
-    <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
-
----
-
-## 🎟️ Movie Ticket Booking System
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Movie+Booking+System+Preview" />
-</p>
-
-**Tech:** Django + React + Redux
-
-* Concurrent seat booking system
-* Scalable backend with optimized APIs
-* Real-time availability handling
+* Designed a **modular backend architecture** using Django, enabling clean separation of business logic and API layers
+* Implemented **efficient ride and route management workflows**, ensuring smooth real-time operations
+* Built a **responsive and intuitive frontend** in React for seamless user interaction
+* Structured the system for **scalability and maintainability**, making it adaptable for production use cases
 
 <p align="center">
   <a href="https://github.com/geekofcodes">
@@ -68,17 +48,46 @@
 
 ---
 
-## 📍 Venue Vault
+## 👥 TeamForge
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Venue+Vault+Preview" />
+  <img src="https://via.placeholder.com/800x400?text=TeamForge+Preview" />
 </p>
 
-**Tech:** React + Maps API
+**A collaborative team management system focused on productivity and workflow optimization**
 
-* Location-based discovery platform
-* Interactive map + listing UI
-* Smooth modern UI/UX
+**Tech:** React + Express + MongoDB
+
+* Engineered a **component-driven frontend architecture** for better scalability and reusability
+* Developed **RESTful APIs with optimized data handling**, improving performance and responsiveness
+* Implemented **task and workflow management features** to streamline team collaboration
+* Focused on **clean UI/UX and structured data flow**, enhancing overall user experience
+
+<p align="center">
+  <a href="https://github.com/geekofcodes">
+    <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+## 🚓 ApexDispatch
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=ApexDispatch+Preview" />
+</p>
+
+**A structured dispatch and workflow system built for operational efficiency and reliability**
+
+**Tech:** MERN Stack
+
+* Designed a **robust workflow-driven system** for managing dispatch operations
+* Built **real-time data handling mechanisms** to ensure consistency and reliability
+* Implemented a **scalable backend architecture** capable of handling structured operational data
+* Focused on **clarity, performance, and maintainability**, making the system production-ready
 
 <p align="center">
   <a href="https://github.com/geekofcodes">
@@ -94,7 +103,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,python,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,figma,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,react,nodejs,express,django,mongodb,mysql,tailwind,bootstrap,figma,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -127,13 +136,13 @@
 
 ## ⚡ Engineering Mindset
 
-* Write code that other developers enjoy reading
-* Build systems, not just features
-* Focus on scalability & performance
-* Keep evolving with technology
+* Build systems that scale, not just features
+* Write clean, maintainable, and readable code
+* Focus on performance, structure, and user experience
+* Continuously learn and adapt to new technologies
 
 ---
 
 <p align="center">
-  ⭐️ If you like my work, let’s connect and build something impactful!
+  ⭐️ Let’s build scalable and impactful software together
 </p>
